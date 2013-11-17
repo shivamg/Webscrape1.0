@@ -1,0 +1,127 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red170\green13\blue145;\red196\green26\blue22;\red28\green0\blue207;
+}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab529
+\pard\tx529\pardeftab529\pardirnatural
+
+\f0\fs22 \cf0 \CocoaLigature0  <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '12'\cf0  catId=\cf4 '12'\cf0  catUrl=\cf3 "mobiles"\cf0  name=\cf3 "Mobiles & Tablets"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Mobiles & Tablets</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '21'\cf0  catId=\cf4 '21'\cf0  catUrl=\cf3 "computers"\cf0  name=\cf3 "Computers & Peripherals"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Computers & Peripherals</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '290'\cf0  catId=\cf4 '290'\cf0  catUrl=\cf3 "cameras"\cf0  name=\cf3 "Cameras & Accessories"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Cameras & Accessories</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '575'\cf0  catId=\cf4 '575'\cf0  catUrl=\cf3 "gaming"\cf0  name=\cf3 "Gaming"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Gaming</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '7'\cf0  catId=\cf4 '7'\cf0  catUrl=\cf3 "electronic"\cf0  name=\cf3 "TVs, Audio & Video"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >TVs, Audio & Video</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '9'\cf0  catId=\cf4 '9'\cf0  catUrl=\cf3 "appliances"\cf0  name=\cf3 "Appliances"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Appliances</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '17'\cf0  catId=\cf4 '17'\cf0  catUrl=\cf3 "men-apparel"\cf0  name=\cf3 "Men's Apparel"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Men\cf4 's Apparel</a>\
+\cf0             </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '23'\cf0  catId=\cf4 '23'\cf0  catUrl=\cf3 "women-apparel"\cf0  name=\cf3 "Women's Apparel"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Women\cf4 's Apparel</a>\
+\cf0             </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '226'\cf0  catId=\cf4 '226'\cf0  catUrl=\cf3 "mens-footwear"\cf0  name=\cf3 "Men's Footwear"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Men\cf4 's Footwear</a>\
+\cf0             </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '227'\cf0  catId=\cf4 '227'\cf0  catUrl=\cf3 "womens-footwear"\cf0  name=\cf3 "Women's Footwear"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Women\cf4 's Footwear</a>\
+\cf0             </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '476'\cf0  catId=\cf4 '476'\cf0  catUrl=\cf3 "lifestyle-watches"\cf0  name=\cf3 "Watches"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Watches</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '474'\cf0  catId=\cf4 '474'\cf0  catUrl=\cf3 "bags"\cf0  name=\cf3 "Bags & Luggage"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Bags & Luggage</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '473'\cf0  catId=\cf4 '473'\cf0  catUrl=\cf3 "eyewear"\cf0  name=\cf3 "Eyewear"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Eyewear</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '481'\cf0  catId=\cf4 '481'\cf0  catUrl=\cf3 "fashion"\cf0  name=\cf3 "Fashion Accessories"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Fashion Accessories</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '6'\cf0  catId=\cf4 '6'\cf0  catUrl=\cf3 "jewelry"\cf0  name=\cf3 "Fashion Jewellery"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Fashion Jewellery</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '586'\cf0  catId=\cf4 '586'\cf0  catUrl=\cf3 "beauty"\cf0  name=\cf3 "Beauty & Personal Care"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Beauty & Personal Care</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '658'\cf0  catId=\cf4 '658'\cf0  catUrl=\cf3 "jewellery-precious"\cf0  name=\cf3 "Precious Jewellery"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Precious Jewellery</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '31'\cf0  catId=\cf4 '31'\cf0  catUrl=\cf3 "perfumes-beauty"\cf0  name=\cf3 "Fragrances"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Fragrances</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '318'\cf0  catId=\cf4 '318'\cf0  catUrl=\cf3 "health"\cf0  name=\cf3 "Health & Nutrition"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Health & Nutrition</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '5'\cf0  catId=\cf4 '5'\cf0  catUrl=\cf3 "home-kitchen"\cf0  name=\cf3 "Home & Kitchen"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Home & Kitchen</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '580'\cf0  catId=\cf4 '580'\cf0  catUrl=\cf3 "furniture"\cf0  name=\cf3 "Furniture"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Furniture</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '694'\cf0  catId=\cf4 '694'\cf0  catUrl=\cf3 "kitchen-bathroom-fittings"\cf0  name=\cf3 "Kitchen & Bathroom Fittings"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Kitchen & Bathroom Fittings</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '475'\cf0  catId=\cf4 '475'\cf0  catUrl=\cf3 "home-furnishing"\cf0  name=\cf3 "Home Furnishing"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Home Furnishing</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '364'\cf0  catId=\cf4 '364'\cf0  catUrl=\cf3 "books"\cf0  name=\cf3 "Books"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Books</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '461'\cf0  catId=\cf4 '461'\cf0  catUrl=\cf3 "stationery"\cf0  name=\cf3 "Stationery & Office Supplies"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Stationery & Office Supplies</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '159'\cf0  catId=\cf4 '159'\cf0  catUrl=\cf3 "sports-hobbies"\cf0  name=\cf3 "Sports & Fitness"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Sports & Fitness</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '682'\cf0  catId=\cf4 '682'\cf0  catUrl=\cf3 "hobbies"\cf0  name=\cf3 "Hobbies"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Hobbies</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '66'\cf0  catId=\cf4 '66'\cf0  catUrl=\cf3 "kids-toys"\cf0  name=\cf3 "Infants, Kids & Toys"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Infants, Kids & Toys</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '715'\cf0  catId=\cf4 '715'\cf0  catUrl=\cf3 "baby-care"\cf0  name=\cf3 "Baby Care"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Baby Care</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '720'\cf0  catId=\cf4 '720'\cf0  catUrl=\cf3 "kids-decor"\cf0  name=\cf3 "Kids Decor"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Kids Decor</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '310'\cf0  catId=\cf4 '310'\cf0  catUrl=\cf3 "automotive"\cf0  name=\cf3 "Automotive"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Automotive</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '493'\cf0  catId=\cf4 '493'\cf0  catUrl=\cf3 "kids-footwear"\cf0  name=\cf3 "Kids Footwear"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Kids Footwear</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '502'\cf0  catId=\cf4 '502'\cf0  catUrl=\cf3 "musical-instruments"\cf0  name=\cf3 "Musical Instruments"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Musical Instruments</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '516'\cf0  catId=\cf4 '516'\cf0  catUrl=\cf3 "entertainment"\cf0  name=\cf3 "Movies & Music"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Movies & Music</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '524'\cf0  catId=\cf4 '524'\cf0  catUrl=\cf3 "boys-clothing"\cf0  name=\cf3 "Boys Clothing"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Boys Clothing</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '539'\cf0  catId=\cf4 '539'\cf0  catUrl=\cf3 "girls-clothing"\cf0  name=\cf3 "Girls Clothing"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Girls Clothing</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '557'\cf0  catId=\cf4 '557'\cf0  catUrl=\cf3 "baby-clothing"\cf0  name=\cf3 "Infant Wear"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Infant Wear</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '217'\cf0  catId=\cf4 '217'\cf0  catUrl=\cf3 "home-kitchen-home-decoratives"\cf0  name=\cf3 "Home Decoratives"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Home Decoratives</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '643'\cf0  catId=\cf4 '643'\cf0  catUrl=\cf3 "gifts"\cf0  name=\cf3 "Gifting & Events"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Gifting & Events</a>\
+        </li>\
+        <li>\
+            <a \cf2 class\cf0 =\cf3 "headerProductCategories"\cf0  id=\cf4 '691'\cf0  catId=\cf4 '691'\cf0  catUrl=\cf3 "women-ethnicwear"\cf0  name=\cf3 "Women's Ethnic Wear"\cf0  onclick=\cf3 "pickCategory(this)"\cf0  vId=\cf3 "p"\cf0 >Women\cf4 's Ethnic Wear</a>\
+\cf0             }

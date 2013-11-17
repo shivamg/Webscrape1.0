@@ -1,0 +1,16 @@
+/clothing/pr?sid=2oq
+/footwear/pr?sid=osp
+/mobiles-accessories/pr?sid=tyy
+/computers/pr?sid=6bo
+/bags-wallets-belts/pr?sid=reh
+/cameras-accessories/pr?sid=jek
+/books/pr?sid=bks
+/home-kitchen/pr?sid=j9e
+/beauty-and-personal-care/pr?sid=t06
+/gaming/pr?sid=4rr
+/tv-audio-video-players/pr?sid=ckf
+/audio-players/pr?sid=ord
+/music-movies-posters/pr?sid=4kt
+/baby-care/pr?sid=kyh
+/sports-fitness/pr?sid=dep
+/ebooks/pr?sid=ixq
